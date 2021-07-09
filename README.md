@@ -1,2 +1,3 @@
 # churn-prediction
-gkj;k;k;lw
+churd prediction on customer subscription rate
+
